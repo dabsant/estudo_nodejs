@@ -1,3 +1,3 @@
 <?php
-    echo gethostname() $_SERVER['SERVER_ADD'];
+    echo $_SERVER['SERVER_ADD'];
 ?>
