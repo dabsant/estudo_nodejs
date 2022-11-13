@@ -1,3 +1,3 @@
 <?php
-    echo "Pod's name: " gethostname();
+    echo $_SERVER['SERVER_NAME'];
 ?>
